@@ -1,0 +1,1 @@
+select customer_number from Orders group by customer_number having count(*) order by count(*) DESC LIMIT 1;
