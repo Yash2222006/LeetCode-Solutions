@@ -13,4 +13,12 @@
 |  |
 | ------- |
 | [1407-top-travellers](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/1407-top-travellers) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
