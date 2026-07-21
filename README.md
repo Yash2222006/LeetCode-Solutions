@@ -12,6 +12,7 @@
 ## Database
 |  |
 | ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1407-top-travellers](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/1407-top-travellers) |
 ## String
 |  |
