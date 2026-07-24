@@ -18,6 +18,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [1341-movie-rating](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/1341-movie-rating) |
 | [1407-top-travellers](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/1407-top-travellers) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## String
 |  |
 | ------- |
