@@ -73,4 +73,12 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
