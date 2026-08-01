@@ -11,6 +11,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Database
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,4 +87,24 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
