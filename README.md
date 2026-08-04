@@ -14,6 +14,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
