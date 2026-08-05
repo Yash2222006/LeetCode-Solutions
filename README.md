@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -24,6 +25,7 @@
 | [0242-valid-anagram](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Database
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0242-valid-anagram](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
