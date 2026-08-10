@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0090-subsets-ii](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -66,6 +67,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Yash2222006/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
